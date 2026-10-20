@@ -1,0 +1,1 @@
+"""Kepler and TESS transit discovery pipeline."""

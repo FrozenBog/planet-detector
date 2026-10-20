@@ -1,0 +1,1 @@
+"""Quality selection, detrending, and light-curve preparation."""

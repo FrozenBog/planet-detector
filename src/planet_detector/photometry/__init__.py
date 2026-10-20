@@ -1,0 +1,1 @@
+"""Extract stellar brightness measurements from pixel observations."""
